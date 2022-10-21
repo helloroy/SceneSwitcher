@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c80a83e83db6ed446a1943dffdf05cb4, type: 3}
+  m_Name: FadeBlack
+  m_EditorClassIdentifier: 
+  leavePrefab: {fileID: 520066519531445349, guid: 8a2fa20c2f8bed94187fa91e43f220a6, type: 3}
+  enterPrefab: {fileID: 520066519531445349, guid: 31e284832b5434e448f3588981a65e1c, type: 3}
+  waitToEnter: 0
